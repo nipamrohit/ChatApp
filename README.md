@@ -34,60 +34,53 @@ CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 NODE_ENV=development
+```
+---
+## 📦 Installation
 
-📦 Installation
-Clone the repo
-bash
-Copy
-Edit
+# Clone the repository
 git clone https://github.com/nipamrohit/ChatApp.git
 cd ChatApp
-Install dependencies for both frontend & backend
-bash
-Copy
-Edit
-# Backend
+
+# Install Backend Dependencies
 cd backend
 npm install
 
-# Frontend
+# Install Frontend Dependencies
 cd ../frontend
 npm install
-🧪 Development
-Start Backend
-bash
-Copy
-Edit
+
+---
+
+## 🧪 Development
+# Start Backend Server
 cd backend
 npm run dev
-Start Frontend
-bash
-Copy
-Edit
+
+# Start Frontend Server
 cd frontend
 npm run dev
-🏗️ Build for Production
-bash
-Copy
-Edit
+
+---
+
+## 🏗️ Build for Production
+
 # From frontend directory
 npm run build
-📸 Screenshot
 
+---
 
-📁 Folder Structure
-Copy
-Edit
+## 📁 Folder Structure
 ChatApp/
 ├── backend/
 │   ├── controllers/
 │   ├── models/
 │   ├── routes/
+│   ├── lib/
 │   └── ...
 ├── frontend/
 │   ├── components/
 │   ├── pages/
 │   ├── assets/
+│   ├── state/
 │   └── ...
-📃 License
-This project is licensed under the MIT License.
