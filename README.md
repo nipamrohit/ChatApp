@@ -10,7 +10,6 @@ Whether you're looking to learn full-stack development, deploy a real-world chat
   <img src="https://github.com/nipamrohit/ChatApp/raw/main/demo.gif" alt="Chat App Demo" width="700"/>
 </p>
 
-> **Note:** Replace the above image with your own GIF or screenshot for a live demo!
 
 ---
 
